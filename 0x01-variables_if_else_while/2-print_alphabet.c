@@ -4,14 +4,14 @@
  * main - prints the alphabet in lowercase
  * Return: Always 0 (Success)
  */
-int main(void)
-{
-char ch;
 
-for (ch = 'a'; ch <= 'z'; ch++
+int main(void)
+
 {
-putchar(ch);
-}
-putchar('\n');
-return (0);
-}
+	char c;
+
+	for (c = 'a'; c <= 'z'; c++)
+	putchar(c);
+	putchar('\n');
+	return (0);
+}	
