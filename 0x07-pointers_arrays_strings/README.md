@@ -1,4 +1,5 @@
 0x07. C - Even more pointers, arrays and strings
+<<<<<<< HEAD
 
 0 memset
 
@@ -49,3 +50,5 @@ Write a function that prints the sum of the two diagonals of a square matrix of 
 Prototype: void print_diagsums(int *a, int size);
 
 
+=======
+>>>>>>> 12dd6d75cf0847030c0c4c1f716a4595b8ca413f
